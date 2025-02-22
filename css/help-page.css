@@ -1,0 +1,106 @@
+/* General Reset */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Body Styling */
+  body {
+    line-height: 1.6;
+    background-color: #228B22;
+    color: white;
+    padding: 20px;
+    background-image: url('../images/money-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+  }
+  
+  /* FAQ Section */
+  .faq {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .faq h2 {
+    color: #228B22;
+    margin-bottom: 10px;
+    margin: 10px;
+    margin-left: 15px;
+    margin-top: 20px;
+  }
+
+  .faq p {
+    width: 85%;
+    margin: auto;
+    color: white;
+  }
+
+  
+  
+  .question h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: white;
+  }
+  
+  .question p {
+    margin: 5px 0 10px;
+  }
+  
+  /* Contact Info Section */
+  .contact-info {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-info h2 {
+    color: #228B22;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info ul {
+    list-style-type: none;
+  }
+  
+  .contact-info ul li {
+    margin: 5px 0;
+  }
+  
+  /* Footer */
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #b4b4b4;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+
+  
+  a {
+    color: white;
+
+  }
+  a:visited {
+    color: white;
+
+  }
