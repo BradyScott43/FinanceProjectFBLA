@@ -33,8 +33,10 @@ hr{
 }
 h1{
     text-align: center;
-    margin-bottom: 20px;
-    color: #001800
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #001800;
+    font-size: 50px;
 }
 h2, h3 {
     color: #228B22; 
