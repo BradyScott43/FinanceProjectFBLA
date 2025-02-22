@@ -6,7 +6,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Finance Manager</title>
+    <title>Centsible</title>
     <link rel="stylesheet" href="css/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
 </head>
@@ -165,7 +165,7 @@ session_start();
 
     
     <header class="header">
-            <h1>Personal Finance Manager</h1>
+            <h1>Centsible</h1>
     </header>
 
 

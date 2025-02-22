@@ -1,6 +1,6 @@
-# Personal Finance Manager
+# Centsible
 
-The Personal Finance Manager is a web application that helps users track their income, expenses, and overall financial health. 
+Centsible is a web application that helps users track their income, expenses, and overall financial health. 
 The application provides intuitive graphs, summary statistics, and an easy-to-use interface for managing financial transactions.
 
 ---
